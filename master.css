@@ -9,3 +9,12 @@ div.heading {
   text-align: center;
   vertical-align: text-top;
 }
+
+.one {
+  width: 100px;
+  height: 100px;
+  background: url(keyimgs/q.png)
+}
+.one:hover {
+  background: url(keyimgs/some.png)
+}
